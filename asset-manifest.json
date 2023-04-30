@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/cryptoverse/static/js/main.a16a0c39.js",
+    "static/media/btc.png": "/cryptoverse/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/cryptoverse/index.html",
+    "main.a16a0c39.js.map": "/cryptoverse/static/js/main.a16a0c39.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a16a0c39.js"
+  ]
+}
